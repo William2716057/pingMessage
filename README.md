@@ -17,7 +17,7 @@ pip install scapy
 ## Usage
 1. Clone the repository or download the script.
 ```
-git clone
+git clone https://github.com/William2716057/pingMessage.git
 ```
 2. Run the script from the command line.
 ```
