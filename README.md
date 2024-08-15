@@ -16,6 +16,9 @@ pip install scapy
 
 ## Usage
 1. Clone the repository or download the script.
+```
+git clone
+```
 2. Run the script from the command line.
 ```
 python pingSmuggle.py
